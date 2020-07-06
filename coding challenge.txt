@@ -1,0 +1,27 @@
+Create a program that allows user to see the employee records.
+
+The program will make a call to http://dummy.restapiexample.com/api/v1/employees to fetch the employee details.
+
+User should be able to run the program and see a list of all the employees, with an additional option of specifying the employee id
+to see specific employee details
+
+Requirements for the program:
+
+-    User must be able to interact with it.
+
+-    The program/executable must be standalone.
+
+-    A set of easy to follow instructions on how to run and execute the program must be provided. Assume the system used for running the program has just a base OS installed.
+
+To be submitted:
+
+-  Your instructions
+
+-  All of the source code and the corresponding executable must be provided via git hub (ideally) or as a zip file
+
+-  Unit tests for your application.
+
+-  Appropriate error handling
+
+
+We have a very strong preference for the challenge to be done in golang
