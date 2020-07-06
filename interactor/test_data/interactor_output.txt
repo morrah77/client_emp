@@ -1,0 +1,40 @@
+List:
+{
+	"foo": "bar"
+}
+
+Please type ID to view item details,
+`l` to view list,
+`q` to quit
+Item:
+{
+	"id": 1
+}
+
+Please type ID to view item details,
+`l` to view list,
+`q` to quit
+Item:
+{
+	"status": "error"
+}
+
+Please type ID to view item details,
+`l` to view list,
+`q` to quit
+List:
+{
+	"foo": "bar"
+}
+
+Please type ID to view item details,
+`l` to view list,
+`q` to quit
+Item:
+{
+	"status": "error"
+}
+
+Please type ID to view item details,
+`l` to view list,
+`q` to quit
